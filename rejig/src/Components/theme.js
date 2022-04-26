@@ -3,14 +3,16 @@ import { createTheme } from "@mui/material/styles";
 const theme = createTheme({
 	palette: {
 		background: {
-			anthracite: "#393D47",
-			darkanthracite: "#292C33",
+			anthracite: "#393d47",
+			darkanthracite: "#292c33",
 			navyblue: "#000034",
+			beige: "#f8f8e7",
 		},
 		primary: {
 			main: "#1da1f2",
 			twitter: "#1da1f2",
 			spotify: "#1db954",
+			white: "#fff",
 		},
 		secondary: {
 			main: "#fff",
